@@ -10,7 +10,6 @@
             "request": "launch",
             "program": "${workspaceFolder}/bot.py",
             "console": "integratedTerminal",
-            "args": "${command:pickArgs}",
             "envFile": "${workspaceFolder}/.env"
         },
     ]
